@@ -1,0 +1,19 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "name": "Memory",
+            "accessMode": "Read/Write",
+            "previewLimit": 50,
+            "driver": "DuckDB",
+            "databaseFilePath": ":memory:"
+        },
+        {
+            "name": "MotherDuck",
+            "accessMode": "Read/Write",
+            "previewLimit": 50,
+            "driver": "DuckDB",
+            "databaseFilePath": "md:"
+        }
+    ]
+}
