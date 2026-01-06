@@ -1,0 +1,6 @@
+- Executive Summary (Intro)
+- Problems & Context (Background)
+- Tech Stack
+- Repo Structure
+- Skills Showcased
+- Analysis Overview
