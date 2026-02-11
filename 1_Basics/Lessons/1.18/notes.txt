@@ -1,0 +1,1 @@
+Lesson problems were done in GitHub and VS Code Terminal

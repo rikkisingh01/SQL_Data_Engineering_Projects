@@ -1,0 +1,1 @@
+TRUNCATE TABLE company_salary_stats;

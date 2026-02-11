@@ -1,0 +1,1 @@
+DELETE FROM main.job_skill_priorities WHERE priority_lvl IS NULL;

@@ -1,0 +1,6 @@
+SELECT 
+    job_id,
+    job_location,
+    AVG(salary_year_avg) OVER(PARTITION BY job_location) AS location_job_salary
+FROM 
+    job_postings_fact;
